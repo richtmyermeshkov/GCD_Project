@@ -22,9 +22,9 @@ Instructions
 
    The contents of this repository are as follows:
 
-   1. run_analysis.R   --  The R script for processing the UCI HAR Dataset into a tidy dataset
-   2. CodeBook.md    --
-   3. README.md     --  This file.  A description of the current project.
+   1. run_analysis.R  -- The R script for processing the UCI HAR Dataset into a tidy dataset
+   2. CodeBook.md     -- 
+   3. README.md       -- A description of the current project and instructions for use.
 
    In addition, the user of this script will need to have complete copy of the UCI HAR Dataset which may be obtained at the following link.
 
