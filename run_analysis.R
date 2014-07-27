@@ -63,7 +63,7 @@ x[2] <- TRUE
 data <- data[,x]
 
 # 3. Uses descriptive activity names to name the activities in the data set
-#    We attach the descriptive activity labels as a additional column alongside the coded numbers
+#    We attach the descriptive activity labels as an additional column alongside the coded numbers
 
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")[,2]
 data <- cbind(data[,1:2], activity_labels[data[,2]], data[,3:dim(data)[2]])
