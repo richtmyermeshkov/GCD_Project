@@ -2,20 +2,20 @@
 GCD_Project
 ===========
 
-Course project for the getting and cleaning data cour:q
+Course project for the Getting and Cleaning Data course
 
 ==================================================================
 
-A tidy data set developed for the Getting and Cleaning Data
+A tidy data set developed for the Getting and Cleaning Data Course
 
  #Human Activity Recognition Using Smartphones Dataset#
-
-A tidy data set developed for the Getting and Cleaning Data Course 
+ 
 ==================================================================
 
-   This repository contains the R script and associated information code for building a tidy data set from
-the Human Activity Recognition dataset.  In this file, we present only the information neccesary for the
-present purposes.  A description of this database and futher information about this dataset can be obtained at the following link (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+   This repository contains the R script and associated information code for building a tidy data set
+from the Human Activity Recognition dataset.  In this file, we present only the information necessary for the
+present purposes.  A description of this database and futher information about this dataset can be obtained at
+the following link (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Instructions
 ==================================================================
@@ -32,5 +32,5 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Datas
 
    After downloading this zip file, unzip it and be sure that the directory 'UCI HAR Dataset' is in the same directory as the script run_analysis.R.
 
-   The run the script run_analysis.R.  This should result in a txt file HAR_data.txt appearing in the same directory.  This is the necessary tidy data set.
+   Then run the script run_analysis.R.  This should result in a txt file HAR_data.txt appearing in the same directory.  This is the necessary tidy data set.
  
