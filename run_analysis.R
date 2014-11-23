@@ -88,3 +88,4 @@ data <- data[order(data$subject, data$activityCode),]
 write.table(data, "./HAR_data.txt", row.name=FALSE)
 
 
+
